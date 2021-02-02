@@ -1,11 +1,11 @@
 {
-  "token": "your_token_here",
-  "ownerId": "your_ID_here",
-  "bugReportChannelId": "bug_report_channel_ID_here",
-  "feedbackChannelId": "feedback_channel_ID_here",
+  "token": "Nzk3NTg3NTY4Njc3NDg2NTky.X_opTg.3RzWfKt-OetmtjH2Yl9VgKQRywQ",
+  "ownerId": "763470823985512459",
+  "bugReportChannelId": "771922235317420032",
+  "feedbackChannelId": "771922235317420032",
   "serverLogId": "server_log_ID_here",
   "apiKeys": {
-    "catApi": "your_API_key_here",
-    "googleApi": "your_API_key_here"
+    "catApi": "0f9b0f1c2386e433e457c3075268f10e20c069d27db760938af945703e04be2c",
+    "googleApi": "Nzk3NTg3NTY4Njc3NDg2NTky.X_opTg.3RzWfKt-OetmtjH2Yl9VgKQRywQ"
   }
 }
